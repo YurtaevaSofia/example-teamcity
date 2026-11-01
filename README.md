@@ -1,4 +1,4 @@
-# Домашнее задание «TeamCity»
+# Домашнее задание «TeamCity» - Юртаева Софья Вячеславовна
 
 [Условие задания](https://github.com/netology-code/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/README.md).
 
