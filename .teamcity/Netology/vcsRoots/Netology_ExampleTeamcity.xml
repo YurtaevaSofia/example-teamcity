@@ -6,4 +6,3 @@
   <param name="teamcity:branchSpec" value="+:refs/heads/(*)" />
   <param name="url" value="https://github.com/YurtaevaSofia/example-teamcity.git" />
 </vcs-root>
-
