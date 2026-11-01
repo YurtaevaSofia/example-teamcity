@@ -1,1 +1,4 @@
-target
+target/
+dependency-reduced-pom.xml
+.token*
+settings.xml

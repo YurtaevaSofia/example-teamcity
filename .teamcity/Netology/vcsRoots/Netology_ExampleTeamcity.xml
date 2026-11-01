@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="a3590b2e-13bd-46fa-a188-915f696babdd" type="jetbrains.git" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2025.3/project-config.xsd">
+  <name>example-teamcity</name>
+  <param name="authMethod" value="ANONYMOUS" />
+  <param name="branch" value="refs/heads/master" />
+  <param name="teamcity:branchSpec" value="+:refs/heads/(*)" />
+  <param name="url" value="https://github.com/YurtaevaSofia/example-teamcity.git" />
+</vcs-root>
+
