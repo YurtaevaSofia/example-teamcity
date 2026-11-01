@@ -1,0 +1,42 @@
+{
+  "id": 11,
+  "number": "11",
+  "status": "SUCCESS",
+  "state": "finished",
+  "branchName": "master",
+  "defaultBranch": true,
+  "webUrl": "http://localhost:8111/buildConfiguration/Netology_Build/11",
+  "statusText": "Tests passed: 6",
+  "triggered": {
+    "type": "vcs"
+  },
+  "revisions": {
+    "revision": [
+      {
+        "version": "a4b650a70d3f4ff52c79ee55ac27a0e76f14fa49"
+      }
+    ]
+  },
+  "testOccurrences": {
+    "count": 6,
+    "failed": 0,
+    "passed": 6
+  },
+  "artifacts": {
+    "file": [
+      {
+        "name": "jars"
+      }
+    ]
+  },
+  "jarArtifacts": [
+    {
+      "name": "plaindoll-0.0.3-SNAPSHOT.jar",
+      "size": 3216
+    }
+  ],
+  "jarRunOutput": [
+    "Welcome home, good hunter. What is it your desire?",
+    "Farewell, good hunter. May you find your worth in waking world."
+  ]
+}

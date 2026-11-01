@@ -1,0 +1,42 @@
+[
+  {
+    "repository": "maven-snapshots",
+    "name": "plaindoll",
+    "version": "0.0.3-20261101.152215-1",
+    "jarPaths": [
+      "org/netology/plaindoll/0.0.3-SNAPSHOT/plaindoll-0.0.3-20261101.152215-1.jar"
+    ]
+  },
+  {
+    "repository": "maven-snapshots",
+    "name": "plaindoll",
+    "version": "0.0.3-20261101.152724-2",
+    "jarPaths": [
+      "org/netology/plaindoll/0.0.3-SNAPSHOT/plaindoll-0.0.3-20261101.152724-2.jar"
+    ]
+  },
+  {
+    "repository": "maven-snapshots",
+    "name": "plaindoll",
+    "version": "0.0.3-20261101.152943-3",
+    "jarPaths": [
+      "org/netology/plaindoll/0.0.3-SNAPSHOT/plaindoll-0.0.3-20261101.152943-3.jar"
+    ]
+  },
+  {
+    "repository": "maven-snapshots",
+    "name": "plaindoll",
+    "version": "0.0.3-20261101.153303-4",
+    "jarPaths": [
+      "org/netology/plaindoll/0.0.3-SNAPSHOT/plaindoll-0.0.3-20261101.153303-4.jar"
+    ]
+  },
+  {
+    "repository": "maven-snapshots",
+    "name": "plaindoll",
+    "version": "0.0.3-20261101.153643-5",
+    "jarPaths": [
+      "org/netology/plaindoll/0.0.3-SNAPSHOT/plaindoll-0.0.3-20261101.153643-5.jar"
+    ]
+  }
+]

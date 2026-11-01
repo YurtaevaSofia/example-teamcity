@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "number": "8",
+  "status": "SUCCESS",
+  "state": "finished",
+  "branchName": "feature/add_reply",
+  "defaultBranch": false,
+  "webUrl": "http://localhost:8111/buildConfiguration/Netology_Build/8",
+  "statusText": "Tests passed: 6",
+  "triggered": {
+    "type": "vcs"
+  },
+  "revisions": {
+    "revision": [
+      {
+        "version": "f824aeda5eba98094db97d139d583eea98143150"
+      }
+    ]
+  },
+  "testOccurrences": {
+    "count": 6,
+    "failed": 0,
+    "passed": 6
+  },
+  "artifacts": {
+    "file": []
+  }
+}

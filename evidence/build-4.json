@@ -1,0 +1,26 @@
+{
+  "id": 4,
+  "number": "4",
+  "status": "SUCCESS",
+  "state": "finished",
+  "webUrl": "http://localhost:8111/buildConfiguration/Netology_Build/4",
+  "statusText": "Tests passed: 5",
+  "triggered": {
+    "type": "user"
+  },
+  "revisions": {
+    "revision": [
+      {
+        "version": "b4fe73f265a6cf0422154b92cbc4e962150c7c02"
+      }
+    ]
+  },
+  "testOccurrences": {
+    "count": 5,
+    "failed": 0,
+    "passed": 5
+  },
+  "artifacts": {
+    "file": []
+  }
+}

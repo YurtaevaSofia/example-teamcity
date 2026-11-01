@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "number": "6",
+  "status": "SUCCESS",
+  "state": "finished",
+  "branchName": "master",
+  "defaultBranch": true,
+  "webUrl": "http://localhost:8111/buildConfiguration/Netology_Build/6",
+  "statusText": "Tests passed: 5",
+  "triggered": {
+    "type": "user"
+  },
+  "revisions": {
+    "revision": [
+      {
+        "version": "869e8d1b65c590b4bc5d40cce2903c6a61658d7a"
+      }
+    ]
+  },
+  "testOccurrences": {
+    "count": 5,
+    "failed": 0,
+    "passed": 5
+  },
+  "artifacts": {
+    "file": []
+  }
+}

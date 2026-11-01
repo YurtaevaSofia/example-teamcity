@@ -1,0 +1,31 @@
+{
+  "files": [
+    {
+      "file": ".teamcity/Netology/buildTypes/Netology_Build.xml",
+      "matchesServer": true
+    },
+    {
+      "file": ".teamcity/Netology/project-config.xml",
+      "matchesServer": true
+    },
+    {
+      "file": ".teamcity/Netology/vcsRoots/Netology_ExampleTeamcity.xml",
+      "matchesServer": true
+    }
+  ],
+  "versionedSettings": {
+    "synchronizationMode": "enabled",
+    "allowUIEditing": false,
+    "showSettingsChanges": false,
+    "vcsRootId": "Netology_ExampleTeamcity",
+    "dslExecutionMode": "sandbox",
+    "buildSettingsMode": "useFromVCS",
+    "applyChangesInDependenciesAndVcsSettings": true,
+    "format": "xml"
+  },
+  "status": {
+    "message": "Changes from VCS are applied to project settings, last change 'Preserve versioned settings when importing project XML', revision a4b650a70d3f4ff52c79ee55ac27a0e76f14fa49, time spent: 26ms",
+    "type": "info",
+    "timestamp": "Sun Nov 01 15:36:17 UTC 2026"
+  }
+}
